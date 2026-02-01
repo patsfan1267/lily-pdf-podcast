@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <item>
+      <title>PDF: Ukraine’s Operation Spider’s Web Shows Future of Drone Warfare | Council on Fore</title>
+      <description>Audio transcription of 'Ukraine’s Operation Spider’s Web Shows Future of Drone Warfare | Council on Fore.pdf' from Alex Friedland
+
+Source: Ukraine’s Operation Spider’s Web Shows Future of Drone Warfare | Council on Fore.pdf</description>
+      <pubDate>Sun, 01 Feb 2026 19:32:04 GMT</pubDate>
+      <guid isPermaLink="false">patsfan1267-lily-pdf-podcast-2026-02-01_14-31-59</guid>
+      <enclosure url="https://raw.githubusercontent.com/patsfan1267/lily-pdf-podcast/podcast-uploads/PDF-2026-02-01_14-31-59.mp3" type="audio/mpeg" length="5388768" />
+    </item>
+    <title>Da Wilfred Show</title>
+    <description>PDF to audio transcriptions</description>
+    <link>https://patsfan1267.github.io/lily-pdf-podcast</link>
+    <language>en-us</language>
+    <ns0:author>PDF Transcriber Bot</ns0:author>
+    <ns0:explicit>false</ns0:explicit>
+    <ns1:link href="https://patsfan1267.github.io/lily-pdf-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://patsfan1267.github.io/lily-pdf-podcast/cover.jpg</url>
+      <title>Da Wilfred Show</title>
+      <link>https://patsfan1267.github.io/lily-pdf-podcast</link>
+    </image>
+  </channel>
+</rss>
